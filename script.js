@@ -5,7 +5,7 @@ function press(value) {
 }
 
 function clearDisplay() {  
-    display.value = "";
+    display.value = '';
 }
 
 function calculate() {
